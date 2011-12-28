@@ -1,0 +1,6 @@
+*.epub
+*.mobi
+*.pdf
+Ch*/*.beam
+code
+jaerlang-code.tar
